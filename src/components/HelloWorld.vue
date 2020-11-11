@@ -29,7 +29,7 @@
             init(){
                 var options = {
                     container: 'zzh', //luckysheet为容器id
-                    title:'zzh', //表头名
+                    title:'zzh', //表 头名
                     lang: 'zh', //中文
                     column: 10,//列数
                     row:30,//行数
